@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dsads
 c
 c
@@ -6,3 +7,11 @@ c
 c
 c
 adssssssssssssssss
+=======
+1dsads
+fgfgfsfdfsd
+fsd
+dfssdfsfdsfd
+
+fsd
+>>>>>>> ff8b8dbe9e373bc9f52b2b73a0c26f24609a03cc
